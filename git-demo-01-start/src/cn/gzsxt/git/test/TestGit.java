@@ -6,6 +6,8 @@ public class TestGit {
 		System.out.println("this is my first project share to git");
 		
 		say("hello");
+	
+		System.out.println("I am clone");
 	}
 	
 	public static void say(String word) {
